@@ -88,7 +88,7 @@ class _ProductListState extends State<ProductList> {
                   // aquí debemos llamar al método del controlador que
                   // disminuye el número de unidades del producto
                   // pasandole el product.id
-                  shoppingController.agregarProducto(product.id);
+                  shoppingController.quitarProducto(product.id);
                 },
                 icon: const Icon(Icons.arrow_downward))
           ],
