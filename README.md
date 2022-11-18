@@ -4,7 +4,8 @@ El código incluye comentarios que explican la estructura del proyecto y los pun
 
 El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades adicionales o mejoras a la interfaz son permitidas):
 
-![](https://i.imgur.com/ZKCt7Jo.gif)
+
+![](https://i.imgur.com/45MgfiB.gif)
 
 Solución:
 
